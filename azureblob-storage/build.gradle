@@ -3,6 +3,6 @@ dependencies {
     implementation project(':conductor-core')
     compileOnly 'org.springframework.boot:spring-boot-starter'
 
-    implementation "com.azure:azure-storage-blob:${revAzureStorageBlobSdk}"
+    implementation "com.azure:azure-storage-blob:12.2.0"
     implementation "org.apache.commons:commons-lang3"
 }
