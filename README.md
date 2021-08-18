@@ -1,4 +1,4 @@
-![Conductor](docs/docs/img/conductor-vector-x.png)
+![Conductor](docs/docs/img/conductor-vector-x.png) 
 
 
 ## Conductor
